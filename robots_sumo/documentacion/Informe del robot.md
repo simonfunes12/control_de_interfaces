@@ -36,14 +36,14 @@ ademas de aplicar lo aprendido en clase
 
 
 # Codigos utilizados:
-
+- Codigo wifi
 
 # Problemas durante la realizacion del robot
 - Dispocion de pocas clases (2/6)
 - Fallo al ingresar por primera vez el codigo wifi
 - Capitan y subcapitana  no presentes en una clase
 - Mala conexion wifi
-
+- Perdimos el codigo wifi
 # Conclusion
  Pudimos probar mucho de lo aprendido en clase en la realizacion del robot, ademas  puso a prueba nuestro trabajo en grupo
 
