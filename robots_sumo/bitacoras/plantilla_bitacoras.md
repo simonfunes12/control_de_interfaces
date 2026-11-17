@@ -1,77 +1,54 @@
-NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo correspondiente
-
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
+## Equipo: La banda de los Sergios
+## Nombre del Robot: Charly
+## Capitán: Alessandro Froziati
+## Subcapitán: Ayala Pilar
 ## Integrantes:
--
--
--
-
+-Alessandro Forziati
+-Ayala Pilar
+-Martiniano Dinardo
+-Simon Funes
 ## REGISTRO DE ACTIVIDADES
-### Fecha: 
+### Fecha: 17/11
 ### Integrantes presentes:
--
--
--
+-Simon Funes Sanchez
 
 ### Objetivos de la jornada:
--
--
--
+- Realizar informe del robot
 
 ### Actividades realizadas:
--
--
--
+- Informe del robot
 
 ### Problemas encontrados:
--
--
--
+- Solo un integrante presente (Yo)
 
 ### Soluciones implementadas o propuestas:
--
--
--
-
+- No hubo solucion al inconveniente
 ### Pruebas realizadas:
--
--
--
+- Ninguna
 
 ### Resultados obtenidos:
--
--
--
+- Informe
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
-
+- Informe realizado en github
 ### Tareas pendientes:
--
--
--
+- Evaluacion oral (24/11)
 
 ### APORTES INDIVIDUALES
-Integrante: ____________________________
+Integrante: Alessandro Forziati
 
-Tarea realizada:
+Tarea realizada: ausente
 
-Integrante: ____________________________
+Integrante: Ayala Pilar
 
-Tarea realizada:
+Tarea realizada:ausente
 
-Integrante: ____________________________
+Integrante: Martiniano Dinardo
 
-Tarea realizada:
+Tarea realizada: ausente
 
-Integrante: ____________________________
+Integrante: Simon Funes
 
-Tarea realizada:
-
-Integrante: ____________________________
-
-Tarea realizada:
+Tarea realizada: Informe y bitacora
