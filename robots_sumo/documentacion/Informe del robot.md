@@ -33,7 +33,7 @@ ademas de aplicar lo aprendido en clase
 - Creamos un codigo wifi
 - Intentamos probar el codigo
 - Colocamos el puente h
-
+- Trabajo de investigacioon del puente h
 
 # Codigos utilizados:
 - Codigo wifi
